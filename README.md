@@ -4,7 +4,7 @@ A web application that tracks and displays user locations in real-time using Web
 
 ## Features
 
-- Real-time location sharing between connected clients
+- Real-time location sharing between multiple connected clients or users
 - Interactive map display using Leaflet.js
 - Automatic updates when users move
 - Clean visualization of multiple users
